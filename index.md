@@ -1,9 +1,9 @@
 # Consulta NAICM UNAM
 
 
-Esta página tiene como objetivo informar a la gente respecto al NAICM antes de la consulta ciudadana que se aplicará el 25 de octubre del año presente.
+El 25 de octubre del presente año tendrás la oportunidad de participar en la consulta ciudadana acerca del Nuevo Aeropuerto Internacional de la Ciudad de México. En este sitio encontrarás información relevante que te permitirá 
 
-Somos  un grupo de estudiantes de ingeniería de la Facultad de Ingeniería UNAM interesados en el proyecto del NUEVO AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MÉXICO y su conexión con el diseño sustentable. 
+Esta iniciativa es impulsada por estudiantes  de la Facultad de Ingeniería de la  Universidad Nacional Autónoma de México interesados en el proyecto del Nuevo Aeropuerto Internacional la Ciudad de México y su conexión con el diseño sustentable. 
 
 
 ## Preguntas frecuentes
