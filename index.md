@@ -5,7 +5,7 @@
 El 25 de octubre del presente año tendrás la oportunidad de participar en la consulta ciudadana acerca del Nuevo Aeropuerto Internacional de la Ciudad de México. En este sitio encontrarás herramientas  que te permitirán emitir una opinión más informada. 
 Esta iniciativa es impulsada por estudiantes  de la Facultad de Ingeniería de la  Universidad Nacional Autónoma de México interesados en el proyecto del Nuevo Aeropuerto Internacional la Ciudad de México y su conexión con el diseño sustentable. 
 
-Encuentra aquí respuestas a las preguntas más usuales emitidas por ciudadanos como tú y con nuestro Bot resuelve  de forma amena y directa todas las dudas que puedan surgirte. Tu opinión es decisiva, infórmate y participa. 
+Encuentra aquí respuestas a las preguntas más usuales emitidas por ciudadanos como tú. Además, con nuestro Bot resuelve  de forma amena y directa todas las dudas que puedan surgirte. Tu opinión es decisiva, infórmate y participa. 
 
 
 
