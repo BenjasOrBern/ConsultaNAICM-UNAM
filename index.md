@@ -44,5 +44,7 @@ Con la construcción del nuevo aeropuerto, ¿cómo se posiciona la ingeniería M
 
 ### Contáctanos
 
-consultanaicm.unam@gmail.com
+Si tienes una pregunta o quieres complementar información dentro de la página, 
+envíanos un correo y te responderemos a la brevedad.
+consulta.naicm.unam@gmail.com
 
