@@ -1,4 +1,4 @@
-#### Consulta NAICM 
+# Consulta NAICM UNAM
 
 Esta página tiene como objetivo informar a la gente respecto al NAICM antes de la consulta ciudadana que se aplicará el 25 de octubre del año presente.
 
@@ -6,25 +6,34 @@ Somos  un grupo de estudiantes de ingeniería de la Facultad de Ingeniería UNAM
 
 ### Preguntas frecuentes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+¿Qué estudios respaldan la construcción del NAICM?
 
-# Header 1
-## Header 2
-### Header 3
+¿Qué porcentaje ha aumentado el costo del nuevo aeropuerto?
 
-- Bulleted
-- List
+¿Bajo qué normas se está rigiendo el NAICM, con respecto al cuidado del medio ambiente?
 
-1. Numbered
-2. List
+¿El aeropuerto contará con la última tecnología en construcción?
 
-**Bold** and _Italic_ and `Code` text
+¿El NAICM generará utilidades y en cuánto tiempo?
 
-[Link](url) and ![Image](src)
-```
+¿En cuánto tiempo se recupera la inversión?
+
+¿Cuáles serán los beneficios y/o problemas que tendrán los habitantes de las zonas aledañas al aeropuerto?
+
+¿Qué problemas ha presentado el aeropuerto hasta el momento?
+
+¿Cuántas fuentes de trabajo genera la construcción del nuevo aeropuerto?
+
+Con la construcción del nuevo aeropuerto, ¿cómo se posiciona la ingeniería Mexicana ante el mundo?
+
+¿Cuáles serán las medidas necesarias para reducir el daño ecológico?
+
+¿Cómo mejoraría o afectaría la calidad de vida de las personas de zonas aledañas?
+
+¿Qué pasaría si se suspende el proyecto del aeropuerto?
+
+¿Qué valor agregaría a la industria del turismo en México?
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
